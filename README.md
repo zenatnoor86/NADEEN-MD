@@ -34,7 +34,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 <p align="center">
 <a href='https://nadeenmd.onrender.com/qr' target="_blank"><img alt='Pair Code 03' src='https://img.shields.io/badge/-Qr Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
   
-### DEVELOPER:
+### DEVELOPER👨🏻‍💻
 **GET In Touch with The Owner**
 - [**On YouTube**](https://youtube.com/@NADEEN-MD)
 - [**Via WhatsApp**](https://wa.me/94711451319)
@@ -55,9 +55,9 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 <p align="center">
 <a href='https://www.youtube.com/watch?v=S-YOOsTvteE&t=17s' target="_blank"><img alt='GET free deploy' src='https://img.shields.io/badge/-Watch Free Deploy-darkred?style=for-the-badge&logo=Youtube&logoColor=white'/< width=115 height=28/p></a>
 
-<h3 align="center">DEPLOY CODE ⤵</h3>
+<h3 align="center">DOWNLOAD ZIP ⤵</h3>
 <p align="center">
-<a href='https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I/238'&t=17s' target="_blank"><img alt='GET free deploy' src='https://img.shields.io/badge/-Free Deploy Code-darkblue?style=for-the-badge&logo=Javascript&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://www.mediafire.com/file/idrxpkgp3bdfyt8/NADEEN-MD.zip/file'&t=17s' target="_blank"><img alt='GET free download' src='https://img.shields.io/badge/-Download%20Zip-black?style=for-the-badge&logo=mediafire&logoColor=white'/< width=115 height=28/p></a>
 
 <h2 align="center">𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
 
@@ -66,7 +66,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?button-url=https://github.com/NADEENbotx/NADEEN-MD&template=https://github.com/NADEENbotx/NADEEN-MD.git' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?button-url=https://github.com/NADEENbotz/NADEEN-MD&template=https://github.com/NADEENbotz/NADEEN-MD.git' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 <p align="center">
 <a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-blue?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
