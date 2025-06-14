@@ -14,9 +14,10 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 
 
 <br>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=0073ff&center=true&width=910&height=100&lines=THANKS FOR USESING +NADEEN-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+NADEEN+POORNA;👨‍💻💝V3💝👨‍💻​" alt="Typing SVG" /></a>
-  </p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=NADEEN+MD+WHATSAPP+BOT+V3" alt="Typing SVG" /></a>
+</p>
 
 ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/NADEENbotx/NADEEN-MD)***
 
