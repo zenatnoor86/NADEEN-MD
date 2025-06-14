@@ -9,7 +9,7 @@
     "stop":"pm2 stop nadeen",
     "restart":"pm2 restart nadeen"},
   "dependencies":{
-    "darksadas-new-baliyes": "npm:sadas-power",
+    "darksadas-new-baliyes": "npm:sadas-baileys-pro",
     "@adiwajshing/keyed-db":"^0.2.4",
     "@blackamda/telegram-image-url":"^1.0.0",
     "@bochilteam/scraper":"^4.0.22-alpha.0",
@@ -105,7 +105,7 @@
     "tough-cookie": "latest",
     "tempmail.js": "latest",
     "qs": "latest",
-    "sharp":"^0.34.1",
+    "sharp":"^0.32.6",
     "gradient-string": "^2.0.2",
     "prompt-sync": "^4.2.0",
     "adm-zip": "^0.5.16",
