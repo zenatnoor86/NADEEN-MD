@@ -9,7 +9,7 @@
     "stop":"pm2 stop nadeen",
     "restart":"pm2 restart nadeen"},
   "dependencies":{
-    "darksadas-new-baliyes": "npm:sadas-baileys-pro",
+    "darksadas-new-baliyes": "npm:sadas-power",
     "@adiwajshing/keyed-db":"^0.2.4",
     "@blackamda/telegram-image-url":"^1.0.0",
     "@bochilteam/scraper":"^4.0.22-alpha.0",
