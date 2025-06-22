@@ -86,7 +86,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
   </a>
 </p>  
 
-## Workflow Deploy Code 👇
+## Workflow Deploy Code 👇 [6 HOURS WORKING]
 
 
 ```
@@ -126,4 +126,4 @@ jobs:
 ```
 ## License
 
-The nadeen-md is made available under the [Apache license](https://github.com/Nadeenpoorna-lkz/NADEEN-MD/blob/main/LICENSE). 
+The nadeen-md is made available under the [Apache license](https://github.com/NADEENbotz/NADEEN-MD/blob/main/LICENSE). 
