@@ -110,5 +110,8 @@
     "adm-zip": "^0.5.16",
     "simple-git": "latest",
     "ytsearch-venom":"^1.0.0"
+  },
+  "overrides": {
+    "css-select": "4.1.0"
   }
 }
