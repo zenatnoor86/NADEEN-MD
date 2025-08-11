@@ -22,7 +22,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/NADEENbotx/NADEEN-MD)***
 
   
-<p align="center"><img src="https://profile-counter.glitch.me/{Nadeenpoorna-app}/count.svg" alt="Nadeenpoorna-freez :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Nadeenpoorna-app}/count.svg" alt="Nadeenpoorna-app :: Visitor's Count" /></p>
 
  ## DEPLOYMENT METHODS
 
